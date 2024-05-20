@@ -6,6 +6,7 @@ require (
 	github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
 	github.com/streadway/amqp v1.1.0
 	go.uber.org/zap v1.27.0
+	golang.org/x/text v0.15.0
 )
 
 require (
